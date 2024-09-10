@@ -27,6 +27,23 @@ pip install streamlit azure-ai-textanalytics azure-storage-blob
   ```
 
 2.EDIT YOUR KEY AND ENDPOINT IN THE CODE
+->HOW TO GET ENDPOINT AND KEY FROM AZURE AI SERVICE-
+To integrate Azure AI services into your project, follow these steps to retrieve the endpoint and key from the Azure AI portal:
+
+Log in to Azure Portal: Go to Azure Portal and sign in with your credentials.
+
+Navigate to Your Resource: From the dashboard, search for your AI service (e.g., Azure Cognitive Services, Language, or Vision service) in the search bar and select your deployed resource.
+
+Access Keys and Endpoint:
+
+![image](https://github.com/user-attachments/assets/2bc8b692-7092-444e-b76a-262556a3f48d)
+
+
+In the resource's overview page, select the "Keys and Endpoint" section from the left-hand menu.
+Copy the Endpoint URL and Key provided. These will be used for authenticating API requests in your project.
+Use in Project: Add the retrieved Endpoint and Key into your application configuration or code to authenticate API calls to Azure AI services.
+
+This ensures your project securely connects to the Azure service.
 
 ![image](https://github.com/user-attachments/assets/e5e2bea0-a6eb-42d6-8c39-300419682624)
 
