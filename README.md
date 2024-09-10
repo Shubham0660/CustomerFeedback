@@ -19,7 +19,7 @@ Before running the application, ensure you have the following:
    
    git clone https://github.com/yourusername/azure-text-analytics-streamlit.git
    cd azure-text-analytics-streamlit
-##STEPS TO RUN THE PROJECT
+#STEPS TO RUN THE PROJECT
 
 1.INSTALL REQUIRED PACKAGES
  ```bash
