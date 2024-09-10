@@ -60,5 +60,8 @@ This ensures your project securely connects to the Azure service.
 ![image](https://github.com/user-attachments/assets/121a7ad6-2bfc-403e-97d2-eff3bcc0a0ed)
 ![image](https://github.com/user-attachments/assets/d8a1bf29-c5f8-4ca1-8641-05895f07147b)
 
-
+#Refference 
+1. Using ChatGPT.
+2. https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/
+3. Youtube : https://youtube.com/playlist?list=PL83Pj2DplX3CAxJnbEXMhP5D8zCA33TvX&si=f0MsEPgp2_uF4ugW
 
