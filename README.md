@@ -22,7 +22,9 @@ Before running the application, ensure you have the following:
 #STEPS TO RUN THE PROJECT
 
 1.INSTALL REQUIRED PACKAGES
+ ```bash
 pip install streamlit azure-ai-textanalytics azure-storage-blob
+  ```
 
 2.EDIT YOUR KEY AND ENDPOINT IN THE CODE
 
