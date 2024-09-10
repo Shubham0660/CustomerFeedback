@@ -56,6 +56,9 @@ This ensures your project securely connects to the Azure service.
 
 4.PROJECT RUNNING
 ![image](https://github.com/user-attachments/assets/dee39bf7-c564-4f6e-818a-204fc8a0aff5)
+![image](https://github.com/user-attachments/assets/b8ed6b6d-963a-4950-a6db-8be63f702f8b)
+![image](https://github.com/user-attachments/assets/121a7ad6-2bfc-403e-97d2-eff3bcc0a0ed)
+![image](https://github.com/user-attachments/assets/d8a1bf29-c5f8-4ca1-8641-05895f07147b)
 
 
 
